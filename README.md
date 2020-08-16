@@ -1,3 +1,6 @@
+请求您删除部分侵权代码！请您尽快联系我，电话/微信：17512549214 邮箱：2259461527@qq.com
+
+
 # 一个基于C++11简单易用的轻量级网络编程框架
 [![Build Status](https://travis-ci.org/xiongziliang/ZLToolKit.svg?branch=master)](https://travis-ci.org/xiongziliang/ZLToolKit)
 
